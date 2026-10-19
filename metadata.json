@@ -1,0 +1,10 @@
+{
+  "name": "Farmer To Market Connect",
+  "description": "Real-time crop price discovery engine for farmers powered by Agmarknet mandi data, fuzzy search, smart caching, sell window guidance, and nearby market linkages.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
